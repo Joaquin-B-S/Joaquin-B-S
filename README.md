@@ -1,4 +1,4 @@
-<h1 align="center">Hi :v:, I am Joaquin Baeza Sanhueza ⚓ </h1>
+<h1 align="center">Hi :v:, I am Joaquin Baeza Sanhueza </h1>
 <h3 align="center">I am a Web Developer, from Chile </h3>
 
 ### About Me:
